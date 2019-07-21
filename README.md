@@ -8,7 +8,7 @@ Hra se spustí otevřením souboru `index.html` v prohlížeči.
 
 ## Návod / Ovládání
 
-- Hra je určeno pro 2 hráče, hraje se na kola.
+- Hra je určena pro 2 hráče, hraje se na kola.
 - Hráč na tahu hází kostkami pomocí tlačítka `ROLL DICE`. Každý hod se přičítá do jeho momentálního skóre za dané kolo.
 - Po každém hodu má hráč 2 možnosti:
   1. použít tlačítko `HOLD`, což jeho momentální skóre z daného kola přičte do jeho celkového skóre. Kolo se ukončí a na řadě je druhý hráč.
